@@ -1,5 +1,5 @@
 #!/bin/bash
-input="/home/robert/CodingStuff/Scripts/LeftOf/file"
+input="Path/to/file"
 ok=0
 echo $ok
 if [ $1 == "update" ];then
